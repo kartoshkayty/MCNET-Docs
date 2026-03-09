@@ -10,9 +10,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-      with:
-        repository: kartoshkayty/MCNET-Docs
-        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
     - name: Use Node.js v24
       uses: actions/setup-node@v4
