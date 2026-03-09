@@ -8,10 +8,7 @@ export default defineConfig({
   description: "Rapapa",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
+    nav: [{ text: "Письки", link: "/main" }],
     outline: { label: "Навигация" },
     sidebar: [
       {
