@@ -12,7 +12,7 @@ export default defineConfig({
     outline: { label: "Навигация" },
     sidebar: [
       {
-        text: "Информация",
+        text: "ИНФОРМАЦИЯ",
         collapsed: false,
         items: [
           { text: "Начало", link: "/main" },
@@ -21,9 +21,14 @@ export default defineConfig({
         ],
       },
       {
-        text: "Обновления",
+        text: "СЕЗОНЫ",
         collapsed: false,
-        items: [{ text: "09.03.2026", link: "/codex" }],
+        items: [{ text: "1 СЕЗОН", link: "/season1" }],
+      },
+      {
+        text: "ОБНОВЛЕНИЯ",
+        collapsed: false,
+        items: [{ text: "15.03.2026", link: "/codex" }],
       },
     ],
 
