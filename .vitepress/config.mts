@@ -1,30 +1,37 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
-  
+
   title: "MCNET-Docs",
   description: "Rapapa",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "Home", link: "/" },
+      { text: "Examples", link: "/markdown-examples" },
     ],
-
+    outline: { label: "Навигация" },
     sidebar: [
       {
-        text: 'Examples',
+        text: "Информация",
+        collapsed: false,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+          { text: "Начало", link: "/main" },
+          { text: "Механики", link: "/mechanics" },
+          { text: "Правила", link: "/codex" },
+        ],
+      },
+      {
+        text: "Обновления",
+        collapsed: false,
+        items: [{ text: "09.03.2026", link: "/codex" }],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+    ],
+  },
+});
