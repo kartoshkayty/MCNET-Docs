@@ -14,6 +14,8 @@ jobs:
         run: npm install
       - name: Build application
         run: npm run build
+      - name: Add CNAME
+        run: echo "wiki.minecis.net" > ./.vitepress/dist/CNAME
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
