@@ -3,7 +3,8 @@
 # Правила сервера
 
 <span style="color: #8C8C8C">Правила поведения на Minecraft сервере.</span>
-::: tip <span style="color: #646CFF">**ПОДСКАЗКА**</span>
+
+::: warning <span style="color: #eab308">ПРИМЕЧАНИЕ</span>
 Методы наказания могут различаться в зависимости от тяжести нарушения и (или) на усмотрение модерации.
 :::
 ::: danger <span style="color: #f43f5e">**ВНИМАНИЕ**</span>
