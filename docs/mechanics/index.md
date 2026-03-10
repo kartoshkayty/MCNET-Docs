@@ -1,3 +1,8 @@
+---
+title: Механики
+next: false
+---
+
 <script setup>
     import Item from "../components/Item.vue"
 </script>

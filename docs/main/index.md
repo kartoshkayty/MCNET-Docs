@@ -1,3 +1,8 @@
+---
+title: Начало
+next: false
+---
+
 ![Изображение](./assets/img1.png)
 
 # Начало
