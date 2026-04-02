@@ -5,7 +5,7 @@ next: false
 
 ![Изображение](./assets/img1.png)
 
-# Начало
+# Добро пожаловать
 
 <span style="color: #8C8C8C">**MINECRAFT СНГ** – народный ванильный Minecraft сервер для всех желающих.</span>
 
