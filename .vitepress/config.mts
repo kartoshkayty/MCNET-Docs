@@ -4,8 +4,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   srcDir: "docs",
 
-  title: "MCNET-Docs",
-  description: "Rapapa",
+  title: "Вики MINECRAFT СНГ",
+  description: "Wiki о Minecraft сервере от MINECRAFT СНГ",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Письки", link: "/main" }],
