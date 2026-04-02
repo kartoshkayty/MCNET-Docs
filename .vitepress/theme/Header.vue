@@ -14,7 +14,7 @@
     }
 
     .header-content {
-        max-width: 1601px;
+        max-width: 1379px;
         width: 100%;
         box-sizing: border-box;
 
@@ -32,10 +32,13 @@
 
     .header-content .btn-map {
         background-color: transparent;
-        padding-top: 7px;
-        padding-left: 36px;
-        padding-right: 37px;
-        padding-bottom: 7px;
+
+        display: flex;
+
+        padding-top: 4px;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-bottom: 4px;
         font-family: "Inter";
         font-weight: 700;
         font-size: 15px;
@@ -50,6 +53,25 @@
     .header-content .btn-map:hover {
         background-color: #40923C;
     }
+
+    .header-content .btn-map .map-icon {
+        margin-right: 8px;
+    }
+
+    .header-content .btn-map div {
+        color: white;
+    }
+
+    @media (max-width: 1438px) {
+        .header-wrapper {
+            justify-content: start;
+        }   
+
+        .header-wrapper .header-content {
+            margin-left: 32px;
+            margin-right: 32px;
+        }
+    }
 </style>
 
 <template>
@@ -59,12 +81,9 @@
                 MINECRAFT СНГ
             </a>
             <a class="btn-map" href="https://map.minecis.net/">
-                Карта
+                <img class="map-icon" src="./assets/Map.svg">
+                <div>Карта</div>
             </a>
         </div>
     </div>
 </template>
-
-<script setup>
-
-</script>
