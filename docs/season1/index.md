@@ -3,7 +3,7 @@ title: 1 сезон
 next: false
 ---
 
-![Изображение](./assets/headimg.png)
+![Изображение](./assets/fullimg.png)
 
 # ПЕРВЫЙ СЕЗОН
 
