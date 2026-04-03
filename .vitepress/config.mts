@@ -21,16 +21,11 @@ export default defineConfig({
         ],
       },
       {
-        text: "СЕЗОНЫ",
-        collapsed: false,
-        items: [{ text: "1 СЕЗОН", link: "/season1" }],
-      },
-      {
         text: "ССЫЛКИ",
         collapsed: false,
         items: [
-          { text: "Сборка", link: "/codex" },
-          { text: "Мерч", link: "/codex" },
+          { text: "Сборка", link: "/season1" },
+          { text: "Мерч", link: "/season1" },
         ],
       },
     ],
