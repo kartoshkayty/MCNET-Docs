@@ -3,7 +3,7 @@ title: Начало
 next: false
 ---
 
-![Изображение](./assets/img1.png)
+![Изображение](./assets/headimg.png)
 
 # Добро пожаловать
 
