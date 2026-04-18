@@ -43,11 +43,11 @@ next: false
   [Freecam (Fair Play)](https://modrinth.com/mod/legacyfreecam), [Litematica](https://modrinth.com/mod/litematica) с **easyplacemode**
   :::
 
-<span style="color: #ff5555">2.</span> Реклама сторонних Minecraft серверов.
+<span style="color: #ff5555">2.</span> Реклама сторонних Minecraft серверов запрещена.
 
-<span style="color: #ff5555">3.</span> Обман/попытка ввести в заблуждение администрацию.
+<span style="color: #ff5555">3.</span> Обман/попытка ввести в заблуждение администрацию недопустима.
 
-<span style="color: #ff5555">4.</span> ПвП без согласия сторон-участников.
+<span style="color: #ff5555">4.</span> ПвП без согласия сторон-участников запрещено.
 
 ## <span style="color: #4da6ff">Коммуникация</span>
 
