@@ -1,5 +1,5 @@
 ---
-title: 1 сезон
+title: Сборка сервера
 next: false
 ---
 
