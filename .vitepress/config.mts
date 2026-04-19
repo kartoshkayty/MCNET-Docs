@@ -24,8 +24,8 @@ export default defineConfig({
         text: "ССЫЛКИ",
         collapsed: false,
         items: [
-          { text: "Сборка", link: "/season1" },
-          { text: "Мерч", link: "/season1" },
+          { text: "Сборка", link: "/modpack" },
+          { text: "Мерч", link: "/modpack" },
         ],
       },
     ],
