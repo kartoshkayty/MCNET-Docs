@@ -61,6 +61,8 @@ next: false
 Для броска нужно нажать <span style="color: #a8b1ff"><kbd>ЛКМ</kbd></span>, а чтобы подорбать нужно рядом с мячом нажать <span style="color: #a8b1ff"><kbd>Shift</kbd></span>.
 Сила броска регулируется зажатой клавишей <span style="color: #a8b1ff"><kbd>Shift</kbd></span>.
 
+Изменить скин мяча <span style="color: #ffffffff"><kbd>/ballskin</kbd></span>
+
 ![Изображение](./assets/volleyball.png)
 
 ## <span style="color: #ffd900ff">Эмоции</span>
