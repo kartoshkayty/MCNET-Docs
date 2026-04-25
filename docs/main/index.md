@@ -37,7 +37,9 @@ play.minecis.net
 
 ## <span style="color: #ffb764ff">Подключение</span>
 
-Наш сервер работает на версии <span style="color: #ffb764ff">Minecraft 1.21.11 Java Edition</span>, для подключения используйте адрес `play.minecis.net` .
+Наш сервер работает на версии <span style="color: #ffb764ff">Minecraft 1.21.11 Java Edition</span>, для подключения используйте IP-адрес `play.minecis.net` .
+
+Если у вас высокий пинг или же по каким-то причинам не работает основной IP-адрес, то воспользуйтесь альтернативным `ru.minecis.net`.
 
 **Приятной игры!**
 
