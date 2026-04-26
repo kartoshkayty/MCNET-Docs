@@ -41,7 +41,7 @@ next: false
   Хранение модов/текстур-паков с функционалом из этого списка – **запрещено**. Оправдание _"Ыыы я же не использую"_ не аргумент.
   :::
   ::: info <span style="color: #657585">**ИСКЛЮЧЕНИЕ**</span>
-  [Freecam (Fair Play)](https://modrinth.com/mod/legacyfreecam), [Litematica](https://modrinth.com/mod/litematica) с **easyplacemode** или **printmode**, обход визуальных эффектов от огня и тошноты.
+  [Freecam (Fair Play)](https://modrinth.com/mod/legacyfreecam), [Litematica](https://modrinth.com/mod/litematica) с **easyplacemode**, обход визуальных эффектов от огня и тошноты.
   :::
 
 <span style="color: #ff5555">2.</span> Реклама сторонних Minecraft серверов запрещена.
@@ -60,6 +60,8 @@ next: false
 <span style="color: #ff5555">6.</span> Любая попытка нанести вред серверу или его игрокам, например постройкой лаг-машины/чанк-бана запрещена.
 
 <span style="color: #ff5555">7.</span> Запрещено использование недопустимых скинов, которые содержат религиозную, политическую, нацистскую или иную запрещенную символику, 18+ контент.
+
+<span style="color: #ff5555">8.</span> Попытка препятствовать медиа-деятельности
 
 ## <span style="color: #4da6ff">Коммуникация</span>
 
