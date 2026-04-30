@@ -42,7 +42,7 @@ next: false
   Хранение модов/текстур-паков с функционалом из этого списка – **запрещено**. Оправдание _"Ыыы я же не использую"_ не аргумент.
   :::
   ::: info <span style="color: #657585">**ИСКЛЮЧЕНИЕ**</span>
-  Автоклик на 1 действие, [Freecam (Fair Play)](https://modrinth.com/mod/legacyfreecam), [Litematica](https://modrinth.com/mod/litematica) с **easyplacemode**, обход визуальных эффектов от огня и тошноты.
+  Автоклик на 1 действие, [Freecam (Fair Play)](https://modrinth.com/mod/legacyfreecam), обход визуальных эффектов от огня и тошноты.
   :::
 
 <span style="color: #ff5555">2.</span> Реклама сторонних Minecraft серверов запрещена.
