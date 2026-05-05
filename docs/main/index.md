@@ -11,7 +11,7 @@ next: false
 
 ## <span style="color: #646CFF">Начать играть</span>
 
-Для начала нужно быть участником нашего [Discord сервера](https://discord.gg/minecis/).
+Для начала нужно быть участником нашего [Discord сервера](https://discord.gg/minecis).
 
 Далее необходимо перейти в канал [#💚 ┃ начать](https://discord.com/channels/1202938978370584586/1473712614688293046) и заполнить заявку как можно подробнее ответив на все вопросы.
 ::: tip <span style="color: #646CFF">ПОДСКАЗКА</span>
@@ -37,7 +37,7 @@ play.minecis.net
 
 ## <span style="color: #ffb764ff">Подключение</span>
 
-Наш сервер работает на версии <span style="color: #ffb764ff">Minecraft 1.21.11 Java Edition</span>, для подключения используйте IP-адрес `play.minecis.net` .
+Наш сервер работает на версии <span style="color: #ffb764ff">Minecraft 1.21.11 Java Edition</span>, для подключения используйте IP-адрес `play.minecis.net`.
 
 Если у вас высокий пинг или же по каким-то причинам не работает основной IP-адрес, то воспользуйтесь альтернативным `ru.minecis.net`.
 
