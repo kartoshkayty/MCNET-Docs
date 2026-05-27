@@ -31,7 +31,6 @@ export default defineConfig({
         items: [{ text: "24.05 2026", link: "/posts/24052026" }],
       },
     ],
-
     socialLinks: [{ icon: "github", link: "https://minecis.net/" }],
   },
 });
