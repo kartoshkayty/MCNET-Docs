@@ -2,4 +2,7 @@
 layout: false
 ---
 
-<script>location.replace("/main")</script>
+<script setup>
+    import { onMounted } from 'vue';
+    onMounted(() => location.replace("/main"));
+</script>
