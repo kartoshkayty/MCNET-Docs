@@ -1,0 +1,12 @@
+[
+  {
+    "type": "dir-section-header",
+    "name": "information",
+    "label": "ИНФОРМАЦИЯ"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "links",
+    "label": "ССЫЛКИ"
+  }
+]
