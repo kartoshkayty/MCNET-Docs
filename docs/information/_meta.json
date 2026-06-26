@@ -1,1 +1,9 @@
-["mechanics", "rules"]
+[
+  {
+    "type": "custom-link",
+    "label": "Начало",
+    "link": "/"
+  },
+  "mechanics",
+  "rules"
+]

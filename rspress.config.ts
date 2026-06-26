@@ -4,18 +4,15 @@ import { defineConfig } from '@rspress/core';
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
   lang: 'ru',
-  title: 'My Site',
+  title: 'MINECRAFT СНГ | WIKI',
   icon: '/rspress-icon.png',
-  logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
-  },
+  logoText: 'MINECRAFT СНГ',
   themeConfig: {
     socialLinks: [
       {
         icon: 'github',
-        mode: 'link',
-        content: 'https://github.com/web-infra-dev/rspress',
+        mode: 'dom',
+        content: '<a href="https://penis.com/">penis</a>',
       },
     ],
   },

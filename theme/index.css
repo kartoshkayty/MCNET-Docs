@@ -1,3 +1,5 @@
+@import url(./fonts.css);
+
 /* Example brand color overrides for the custom theme scaffold. */
 /* For more CSS variables, see https://rspress.rs/ui/vars. */
 :root {
@@ -9,4 +11,9 @@
   --rp-c-brand-tint: rgba(255, 94, 0, 0.07);
 
   --rp-home-hero-secondary-color: #ff5e00;
+}
+
+.rp-nav__title__link span {
+  font-family: "Unbounded";
+  font-size: 24px;
 }
