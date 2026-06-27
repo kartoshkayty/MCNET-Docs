@@ -30,3 +30,7 @@
   --rp-c-bg-mute: #141414;
   --rp-c-bg-soft: #0A0A0A;
 }
+
+.medium-zoom-image {
+  border-radius: 15px;
+}
