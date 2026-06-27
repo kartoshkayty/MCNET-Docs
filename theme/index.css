@@ -2,18 +2,31 @@
 
 /* Example brand color overrides for the custom theme scaffold. */
 /* For more CSS variables, see https://rspress.rs/ui/vars. */
-:root {
-  --rp-c-brand: #ff5e00;
-  --rp-c-brand-dark: #ff704d;
-  --rp-c-brand-darker: #ff704d;
-  --rp-c-brand-light: #ff7524;
-  --rp-c-brand-lighter: #ff7524;
-  --rp-c-brand-tint: rgba(255, 94, 0, 0.07);
-
-  --rp-home-hero-secondary-color: #ff5e00;
-}
 
 .rp-nav__title__link span {
   font-family: "Unbounded";
   font-size: 24px;
+}
+
+/* Light Mode */
+:where(html:not(.rp-dark)) {
+  --rp-c-brand: #4db348; /* hsl(117deg 43% 49%) */
+  --rp-c-brand-dark: #45a141; /* hsl(117deg 43% 44%) */
+  --rp-c-brand-darker: #3d8f39; /* hsl(117deg 43% 39%) */
+  --rp-c-brand-light: #6fc36b; /* hsl(117deg 43% 59%) */
+  --rp-c-brand-lighter: #92d28f; /* hsl(117deg 43% 69%) */
+  --rp-c-brand-tint: rgba(77, 179, 72, 0.15);
+}
+
+/* Dark Mode */
+:where(html.rp-dark) {
+  --rp-c-brand: #4db348; /* hsl(117deg 43% 49%) */
+  --rp-c-brand-dark: #45a141; /* hsl(117deg 43% 44%) */
+  --rp-c-brand-darker: #3d8f39; /* hsl(117deg 43% 39%) */
+  --rp-c-brand-light: #6fc36b; /* hsl(117deg 43% 59%) */
+  --rp-c-brand-lighter: #92d28f; /* hsl(117deg 43% 69%) */
+  --rp-c-brand-tint: rgba(77, 179, 72, 0.15);
+  --rp-c-bg: #000000;
+  --rp-c-bg-mute: #141414;
+  --rp-c-bg-soft: #0A0A0A;
 }

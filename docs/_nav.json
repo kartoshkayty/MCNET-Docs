@@ -1,16 +1,10 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/start/introduction",
-    "activeMatch": "/guide/"
+    "text": "Discord",
+    "link": "https://discord.gg/minecis"
   },
   {
-    "text": "API",
-    "link": "/api/",
-    "activeMatch": "/api/"
-  },
-  {
-    "text": "Document",
-    "link": "https://rspress.rs/"
+    "text": "Telegram",
+    "link": "https://t.me/minecraft_cis"
   }
 ]

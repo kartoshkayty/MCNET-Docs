@@ -1,9 +1,8 @@
 [
   {
     "type": "custom-link",
-    "label": "Начало",
+    "label": "Начать играть",
     "link": "/"
   },
-  "mechanics",
   "rules"
 ]
