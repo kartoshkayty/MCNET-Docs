@@ -1,19 +1,19 @@
 [
   {
     "type": "dir-section-header",
-    "name": "information",
+    "name": "info",
     "label": "ОСНОВНОЕ"
   },
   {
     "type": "dir",
     "name": "mechanics",
     "label": "Механики",
-    "collapsible": true,
+    "collapsible": false,
     "collapsed": false
   },
   {
     "type": "dir-section-header",
-    "name": "info",
+    "name": "other",
     "label": "ПРОЧЕЕ"
   }
 ]

@@ -1,7 +1,12 @@
 [
   {
     "type": "custom-link",
-    "label": "FAQ",
-    "link": "/info/faq"
+    "label": "Приветствие",
+    "link": "/"
+  },
+  {
+    "type": "custom-link",
+    "label": "Правила",
+    "link": "/info/rules"
   }
 ]
