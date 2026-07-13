@@ -19,8 +19,8 @@ jobs:
       - name: Build application
         run: pnpm run build
 
-      # - name: Add CNAME
-      #   run: echo "wiki.minecis.net" > ./.vitepress/dist/CNAME
+      - name: Add CNAME
+        run: echo "wiki.minecis.net" > ./doc_build/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
