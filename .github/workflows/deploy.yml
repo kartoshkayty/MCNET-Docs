@@ -10,17 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install packet manager
+        run: npm i pnpm -g
+
       - name: Install dependencies
-        run: npm install
+        run: pnpm install --dangerously-allow-all-builds
+
       - name: Build application
-        run: npm run build
-      - name: Add CNAME
-        run: echo "wiki.minecis.net" > ./.vitepress/dist/CNAME
+        run: pnpm run build
+
+      # - name: Add CNAME
+      #   run: echo "wiki.minecis.net" > ./.vitepress/dist/CNAME
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./.vitepress/dist
+          publish_dir: ./doc_build
           publish_branch: gh-pages
           destination_dir: .
           allow_empty_commit: true
