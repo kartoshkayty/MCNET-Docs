@@ -10,4 +10,7 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [],
   },
+  route: {
+    cleanUrls: true,
+  },
 });
